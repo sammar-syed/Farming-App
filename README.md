@@ -1,6 +1,6 @@
-# 👨‍🌾 Agri India - One stop application for Indian Farmers
+# 👨‍🌾 Agri - One stop application for Farmers
 
-✒️ This is an Android Application designed for our Indian farmers. 
+✒️ This is an Android Application designed for our  farmers. 
 
 ✒️ The technology has become a part and parcel of everyone's life and it is also helping us to make our daily tasks easy.
 We identified that in the Agriculture sector, the farmers are still lacking the best technology use cases. 
